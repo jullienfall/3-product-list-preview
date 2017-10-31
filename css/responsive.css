@@ -1,0 +1,26 @@
+@media (max-width: 992px) {
+    figure {
+        width: 50%;
+    }
+    .item {
+        width: 42vw;
+        height: 42vw;
+    }
+    .products {
+        top: 2em;
+        margin-bottom: 2em;
+    }
+}
+@media (max-width: 480px) {
+    figure {
+        width: 100%;
+     }
+    .item {
+        width: 85vw;
+        height: 85vw;
+    }
+    .products {
+        top: 2em;
+        margin-bottom: 2em;
+    }
+}
